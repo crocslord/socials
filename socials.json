@@ -1,17 +1,23 @@
 {
-    "youtube": {
-        "user": "akira",
-        "url": "https://youtube.com/c/akiraoncrack",
-        "image": "https://sttheresachurch.org/wp-content/uploads/2020/04/you-tube-logo.png"
+    "user": {
+        "name": "jazz",
+        "profile": "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b564272-DlTwTm5qmwRm.png"
     },
-    "anilist": {
-        "user": "Jazz",
-        "url": "https://anilist.co/user/Jazz",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/AniList_logo.svg"
-    },
-    "spotify": {
-        "user": "akira",
-        "url": "unknown",
-        "image": ""
+    "socials": {
+        "youtube": {
+            "user": "akira",
+            "url": "https://youtube.com/c/akiraoncrack",
+            "image": "https://sttheresachurch.org/wp-content/uploads/2020/04/you-tube-logo.png"
+        },
+        "anilist": {
+            "user": "Jazz",
+            "url": "https://anilist.co/user/Jazz",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/AniList_logo.svg"
+        },
+        "spotify": {
+            "user": "akira",
+            "url": "https://open.spotify.com/user/morgantali.mt?si=a1bab1c21d6a445b",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
+        }
     }
 }
