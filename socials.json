@@ -1,23 +1,33 @@
 {
     "user": {
-        "name": "jazz",
-        "profile": "https://s4.anilist.co/file/anilistcdn/user/avatar/large/b564272-DlTwTm5qmwRm.png"
+        "name": "meweeb",
+        "profile": "https://i.ibb.co/Nnng3Fz/newpfp-modified.png"
     },
     "socials": {
         "youtube": {
-            "user": "akira",
-            "url": "https://youtube.com/c/akiraoncrack",
+            "user": "meweeb",
+            "url": "https://www.youtube.com/channel/UCTEDmq4MQeiJp2PBta90sPg",
             "image": "https://sttheresachurch.org/wp-content/uploads/2020/04/you-tube-logo.png"
         },
         "anilist": {
-            "user": "Jazz",
-            "url": "https://anilist.co/user/Jazz",
+            "user": "meweeb",
+            "url": "https://anilist.co/user/meweeb",
             "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/AniList_logo.svg"
         },
         "spotify": {
-            "user": "akira",
-            "url": "https://open.spotify.com/user/morgantali.mt?si=a1bab1c21d6a445b",
+            "user": "jstskull",
+            "url": "https://open.spotify.com/user/yiqknfnx103q978aa0kvd2da4?si=7558b3aed566470c",
             "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png"
+        },
+        "last.fm": {
+            "user": "jstskull",
+            "url": "https://www.last.fm/user/jstskull",
+            "image": "https://i.ibb.co/d0JT7Wb/last-fm.png"
+        },
+        "letterboxd": {
+            "user": "jstskull",
+            "url": "https://letterboxd.com/jstskull/",
+            "image": "https://i.ibb.co/m6PzQHr/letter.png"
         }
     }
 }
